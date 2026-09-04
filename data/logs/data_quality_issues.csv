@@ -1,3 +1,44 @@
-Date,Issue,Source,Notes
-2019-02-13,Missing data,yfinance gap,"NSE was open, normal trading day"
-2019-03-29,Missing data,yfinance gap,"NSE was open, normal trading day"
+Date,Issue_Type,Reason
+2019-02-13,Genuine Data Gap,"NSE was open, yfinance returned no data"
+2019-03-29,Genuine Data Gap,"NSE was open, yfinance returned no data"
+2014-01-01,Calendar Library Quirk,New Year's Day - library incorrectly marks as trading day
+2015-01-01,Calendar Library Quirk,New Year's Day - library incorrectly marks as trading day
+2016-01-01,Calendar Library Quirk,New Year's Day - library incorrectly marks as trading day
+2018-01-01,Calendar Library Quirk,New Year's Day - library incorrectly marks as trading day
+2019-01-01,Calendar Library Quirk,New Year's Day - library incorrectly marks as trading day
+2014-02-17,NSE Holiday,Mahashivratri
+2014-10-23,NSE Holiday,Diwali - Laxmi Pujan
+2015-04-15,NSE Holiday,Dr. Ambedkar Jayanti / Good Friday
+2015-11-11,NSE Holiday,Diwali
+2016-08-12,NSE Holiday,Eid al-Adha (Bakrid)
+2020-05-25,NSE Holiday,Eid al-Fitr
+2024-01-22,NSE Holiday,Ram Mandir Consecration - special one-off closure
+2024-11-20,NSE Holiday,Gurunanak Jayanti
+2017-04-17,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-04-27,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-05-21,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-07-06,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-07-13,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-08-10,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-09-11,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-09-24,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-10-10,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-10-25,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-11-06,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-11-15,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-11-26,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2018-11-27,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2020-02-17,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2020-09-17,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2021-03-08,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2021-04-07,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2021-05-27,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2021-07-14,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2022-08-16,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2023-03-22,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2023-08-16,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2024-02-19,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2024-04-01,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2024-07-01,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2024-07-02,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
+2024-07-03,Zero Volume,yfinance returned 0 volume for index data - known data quality issue for ^NSEI
